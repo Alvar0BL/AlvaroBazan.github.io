@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "valido.dtd">
+<tv>
+<channel id="Cuatro.TV">
+<display-name>Cuatro.TV</display-name>
+</channel>
+<programme channel="Cuatro.TV" start="20240521053000 +0000" stop="20240521053500 +0000">
+<title>¡Toma Salami!: La tv que nos parió: Episodio 31</title>
+<desc>Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P1770041"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240521053500 +0000" stop="20240521055500 +0000">
+<title>¡Toma Salami!: La tv que nos parió: Episodio 35</title>
+<desc>Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P1772123"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240521055500 +0000" stop="20240521072500 +0000">
+<title>Planeta Calleja: Bertín Osborne</title>
+<desc>El cantante y presentador Bertín Osborne se enfrentará a sus miedos, como el vértigo, y disfrutará de la naturaleza acompañado por Jesús Calleja. Ambos se enfrentan a un abismo vertical en los Picos de Europa y atravesarán las Hoces del Río Duraton en kayak.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P1507920"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240521133000 +0000" stop="20240521163000 +0000">
+<title>Todo es mentira: Episodio 429</title>
+<desc>Espacio que analiza las noticias falsas y los bulos que inundan las páginas de los diarios y las redes sociales. Risto Mejide y su equipo ponen humor a este ácido análisis de la actualidad.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P3360864"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240521190500 +0000" stop="20240521194000 +0000">
+<title>First dates: Episodio 27</title>
+<desc>Espacio que organiza citas a ciegas entre solteros en un restaurante único y especial. Carlos Sobera ejercerá de singular maître de este local, interviniendo en caso de que sus clientes necesiten una ayuda extra durante la cita, para conseguir el éxito entre la pareja.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P3135092"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240521194000 +0000" stop="20240521205000 +0000">
+<title>First dates: Episodio 186</title>
+<desc>Espacio que organiza citas a ciegas entre solteros en un restaurante único y especial. Carlos Sobera ejercerá de singular maître de este local, interviniendo en caso de que sus clientes necesiten una ayuda extra durante la cita, para conseguir el éxito entre la pareja.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P3360868"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240522053000 +0000" stop="20240522053500 +0000">
+<title>¡Toma Salami!: La tv que nos parió: Episodio 37</title>
+<desc>Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P1774345"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240522053500 +0000" stop="20240522060000 +0000">
+<title>¡Toma Salami!: La tv que nos parió: Episodio 39</title>
+<desc>Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P1828774"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240522060000 +0000" stop="20240522073000 +0000">
+<title>Planeta Calleja: Los Javis</title>
+<desc>Los directores Javier Calvo y Javier Ambrossi se adentrán en la cultura y las costumbres hinduistas en la última entrega de la temporada. Los Javis se alejan de los focos para experimentar un auténtico retiro espiritual.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P1606769"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240522190500 +0000" stop="20240522195000 +0000">
+<title>First dates: Episodio 28</title>
+<desc>Espacio que organiza citas a ciegas entre solteros en un restaurante único y especial. Carlos Sobera ejercerá de singular maître de este local, interviniendo en caso de que sus clientes necesiten una ayuda extra durante la cita, para conseguir el éxito entre la pareja.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P3135106"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240522195000 +0000" stop="20240522210000 +0000">
+<title>First dates: Episodio 187</title>
+<desc>Espacio que organiza citas a ciegas entre solteros en un restaurante único y especial. Carlos Sobera ejercerá de singular maître de este local, interviniendo en caso de que sus clientes necesiten una ayuda extra durante la cita, para conseguir el éxito entre la pareja.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P3360878"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240523053000 +0000" stop="20240523054000 +0000">
+<title>¡Toma Salami!</title>
+<desc>Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P1832791"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240523054000 +0000" stop="20240523061500 +0000">
+<title>¡Toma Salami!</title>
+<desc>Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P1832791"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240523061500 +0000" stop="20240523073000 +0000">
+<title>Planeta Calleja</title>
+<desc>Cuarta temporada de este espacio conducido por el mediático aventurero Jesús Calleja. Como en las ediciones anteriores, Calleja vivirá en cada entrega una expedición con un personaje popular al que llevará a los rincones más inaccesibles y espectaculares del planeta.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P1401858"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240523133000 +0000" stop="20240523163000 +0000">
+<title>Todo es mentira</title>
+<desc>Espacio que analiza las noticias falsas y los bulos que inundan las páginas de los diarios y las redes sociales. Risto Mejide y su equipo ponen humor a este ácido análisis de la actualidad.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P2118028"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240523190500 +0000" stop="20240523194000 +0000">
+<title>First dates</title>
+<desc>Espacio que organiza citas a ciegas entre solteros en un restaurante único y especial. Carlos Sobera ejercerá de singular maître de este local, interviniendo en caso de que sus clientes necesiten una ayuda extra durante la cita, para conseguir el éxito entre la pareja.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P3108986"/>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240523194000 +0000" stop="20240523205000 +0000">
+<title>First dates</title>
+<desc>Espacio que organiza citas a ciegas entre solteros en un restaurante único y especial. Carlos Sobera ejercerá de singular maître de este local, interviniendo en caso de que sus clientes necesiten una ayuda extra durante la cita, para conseguir el éxito entre la pareja.</desc>
+<category>Entretenimiento</category>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P3108986"/>
+<country>España</country>
+</programme>
+</tv>
